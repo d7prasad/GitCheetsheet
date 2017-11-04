@@ -1,7 +1,7 @@
 # GitCheetsheet
 This project is to practise Git and Git commands
 
-'
+```bash
 sudo apt-get install -y nodejs // To install Node JS
 
 // Git config
@@ -30,4 +30,4 @@ git init
 (or)
 git init <repo name> //More Disciplined way
 
-
+'''
